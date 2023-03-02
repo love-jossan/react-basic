@@ -20,6 +20,7 @@ export default function Aboutus() {
         background:'black'
       });
       setBtn("White  Mode")
+
     }
   }
   return (
