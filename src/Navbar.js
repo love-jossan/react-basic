@@ -1,5 +1,5 @@
 import React from 'react'
-export default function Navba(props) {
+export default function Navbar(props) {
   
     
   
